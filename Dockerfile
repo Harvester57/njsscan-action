@@ -4,4 +4,4 @@ LABEL "maintainer"="Ajin Abraham <ajin@opensecurity.in>"
 LABEL "repository"="https://github.com/ajinabraham/njsscan"
 LABEL "homepage"="https://github.com/ajinabraham/njsscan"
 
-ENTRYPOINT [ "njsscan", "$*" ]
+ENTRYPOINT [ "njsscan" ]
