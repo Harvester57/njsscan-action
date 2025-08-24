@@ -1,4 +1,4 @@
-FROM ghcr.io/harvester57/njsscan:master@sha256:03976a78709bb5c8b9d10549ad4a7e5baf2f3d5978c6de81093bd3a9110d0ada
+FROM ghcr.io/harvester57/njsscan:master@sha256:fa434f6d183307c107689d282f13e51e751155dd05f23488eb0be0a4ca0342ce
 
 LABEL "maintainer"="Ajin Abraham <ajin@opensecurity.in>"
 LABEL "repository"="https://github.com/ajinabraham/njsscan"
