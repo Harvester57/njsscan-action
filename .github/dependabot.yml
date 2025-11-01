@@ -19,7 +19,7 @@ updates:
   commit-message:
     prefix: "actions"
   labels: [ 'github-actions' ]
-  reviewers:
+  assignees:
   - "Harvester57"
   schedule:
     interval: "weekly"
