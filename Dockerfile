@@ -1,4 +1,4 @@
-FROM ghcr.io/harvester57/njsscan:master@sha256:bf447ecc6c10ec56ac9b990339bb4ef639d4c95755b142682f1bc35e3acda180
+FROM ghcr.io/harvester57/njsscan:master@sha256:5af057a69667e4125eaaa3ec4ba323fc4afd262cd472febab218563c8f86b0b6
 
 LABEL org.opencontainers.image.authors="Florian Stosse <contact@harvester.fr>"
 LABEL org.opencontainers.image.source="https://github.com/Harvester57/njsscan"
